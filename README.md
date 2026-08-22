@@ -78,12 +78,10 @@ The notebook opens with `.info()` and `.describe()` to get oriented, then works 
 ## 📂 Project Structure
 
 ```
-Global-Countries-Data-Analysis/
-├── data/
-│   └── Countries.csv              # Raw dataset
-├── notebook/
-│   └── Countries_Questions.ipynb  # Main analysis notebook (Q&A format)
-├── requirements.txt                # Python dependencies
+Countries-Data-Analysis
+│
+├── countries.csv
+├── Countries_Questions.ipynb
 └── README.md
 ```
 

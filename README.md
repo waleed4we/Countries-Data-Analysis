@@ -103,20 +103,13 @@ jupyter notebook notebook/Countries_Questions.ipynb
 
 <br/>
 
-## 🧭 Roadmap
-
-- [ ] Visualizations with `matplotlib` / `seaborn`
-- [ ] `groupby()` questions — avg. GDP per region, avg. life expectancy per continent
-- [ ] Correlation analysis (e.g. GDP vs. life expectancy)
-- [ ] Summary & insights section
-
-<br/>
 
 <div align="center">
 
 ## 🙋‍♂️ Author
 
 **Malik Waleed Hussain**
+<br/>
 BS Computer Science
 
 <a href="https://github.com/waleed4we">

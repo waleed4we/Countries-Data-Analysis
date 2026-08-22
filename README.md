@@ -11,10 +11,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-![Rows](https://img.shields.io/badge/Rows-194-blue?style=flat-square)
-![Columns](https://img.shields.io/badge/Columns-64-blue?style=flat-square)
 
 </div>
 

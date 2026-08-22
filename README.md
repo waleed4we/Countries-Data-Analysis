@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## Overview
 
 A beginner-friendly **pandas** project that digs into a dataset of 194 countries to answer real-world analytical questions — no visualizations, no fluff, just clean data exploration and aggregation using Python.

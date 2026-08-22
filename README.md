@@ -116,10 +116,4 @@ BS Computer Science
 <img src="https://img.shields.io/badge/GitHub-waleed4we-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<sub>Built with pandas, curiosity, and a lot of coffee ☕</sub>
-
-<br/><br/>
-
-⭐ **If this project helped you, consider giving it a star!** ⭐
-
 </div>

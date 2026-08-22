@@ -1,64 +1,89 @@
 <div align="center">
 
-# Global Countries Data Analysis
+<h1>🌍 Global Countries Data Analysis</h1>
 
-**Exploring 194 countries across population, economy, health, energy, and politics — with pandas.**
+<p><em>Exploring 194 countries across population, economy, health, energy, and politics — with pandas.</em></p>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square&logo=bookstack&logoColor=white" alt="License"/>
+<img src="https://img.shields.io/badge/Rows-194-4dabcf?style=flat-square&logo=databricks&logoColor=white" alt="Rows"/>
+<img src="https://img.shields.io/badge/Columns-64-4dabcf?style=flat-square&logo=googlesheets&logoColor=white" alt="Columns"/>
+<img src="https://img.shields.io/github/stars/waleed4we/Global-Countries-Data-Analysis?style=flat-square&color=f5a623&logo=github" alt="Stars"/>
 
 </div>
 
-## Overview
+<br/>
 
-A beginner-friendly **pandas** project that digs into a dataset of 194 countries to answer real-world analytical questions — no visualizations, no fluff, just clean data exploration and aggregation using Python.
+## 📌 Overview
 
-Built as hands-on practice on the road to becoming a **Data Analyst**, this project focuses on filtering, grouping, and summarizing data the way you'd do it in an actual analytics workflow.
+A beginner-level **pandas** project that digs into a dataset of 194 countries to answer real-world analytical questions — clean data exploration and aggregation, the way an actual analyst would approach it.
 
-## Dataset
+Built as hands-on practice on the road to becoming a **Data Analyst**, this project focuses on filtering, grouping, and summarizing data rather than just displaying it.
 
-`Countries.csv` — **194 rows × 64 columns**, covering:
+<br/>
 
-| Category | Examples |
-|---|---|
-| 🌐 Identity | Country, capital, region, continent, currency |
-| 👥 Population | Total, male, female, urban, rural |
-| 💰 Economy | GDP, inflation, tax revenue, unemployment |
-| 🏥 Health | Expenditure, life expectancy, birth/death rate |
-| ⚡ Energy | Coal, hydro, nuclear, renewables |
-| 🌱 Environment | CO₂, methane, greenhouse gas emissions |
-| 🏛️ Politics | Democracy score, democracy type, political leader |
+## 🗂️ Dataset
 
-## Questions Answered
+`Countries.csv` — **194 rows × 64 columns**
 
-The notebook opens with `.info()` and `.describe()` to get oriented, then works through 10 questions using `nlargest`, `value_counts`, `.apply()`, and boolean indexing:
+<div align="center">
 
-1. Capital of the most populous country
-2. Least populated country
-3. Capital of the least populated country
-4. Top 5 countries by democracy score
-5. Total number of regions
-6. Countries in Eastern Europe
-7. Political leader of the 2nd most populous country
-8. Countries with an unknown political leader
-9. Countries with "Republic" in their full name
-10. Most populous country in Africa
+| Category | Fields |
+|:--|:--|
+| 🌐 **Identity** | Country, capital, region, continent, currency |
+| 👥 **Population** | Total, male, female, urban, rural |
+| 💰 **Economy** | GDP, inflation, tax revenue, unemployment |
+| 🏥 **Health** | Expenditure, life expectancy, birth/death rate |
+| ⚡ **Energy** | Coal, hydro, nuclear, renewables |
+| 🌱 **Environment** | CO₂, methane, greenhouse gas emissions |
+| 🏛️ **Politics** | Democracy score, democracy type, political leader |
 
-Each answer includes a short comment explaining the logic behind it.
+</div>
 
-## Tech Stack
+<br/>
 
-- **Python 3** — core language
-- **Pandas** — loading, filtering, and analysis
-- **NumPy** — numerical operations
-- **Jupyter Notebook** — interactive environment
+## ❓ Questions Answered
 
-## Project Structure
+The notebook opens with `.info()` and `.describe()` to get oriented, then works through 10 questions using `nlargest`, `value_counts`, `.apply()`, and boolean indexing — each with a short comment explaining the logic.
+
+<table>
+<tr><td>01</td><td>Capital of the most populous country</td></tr>
+<tr><td>02</td><td>Least populated country</td></tr>
+<tr><td>03</td><td>Capital of the least populated country</td></tr>
+<tr><td>04</td><td>Top 5 countries by democracy score</td></tr>
+<tr><td>05</td><td>Total number of regions</td></tr>
+<tr><td>06</td><td>Countries in Eastern Europe</td></tr>
+<tr><td>07</td><td>Political leader of the 2nd most populous country</td></tr>
+<tr><td>08</td><td>Countries with an unknown political leader</td></tr>
+<tr><td>09</td><td>Countries with "Republic" in their full name</td></tr>
+<tr><td>10</td><td>Most populous country in Africa</td></tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python" alt="Python"/>
+<img src="https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas" alt="Pandas"/>
+<img src="https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy" alt="NumPy"/>
+<img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=jupyter" alt="Jupyter"/>
+
+</div>
+
+<br/>
+
+## 📂 Project Structure
 
 ```
 Global-Countries-Data-Analysis/
@@ -70,7 +95,9 @@ Global-Countries-Data-Analysis/
 └── README.md
 ```
 
-## Getting Started
+<br/>
+
+## 🚀 Getting Started
 
 ```bash
 # Clone the repo
@@ -84,26 +111,32 @@ pip install -r requirements.txt
 jupyter notebook notebook/Countries_Questions.ipynb
 ```
 
-## Roadmap
+<br/>
+
+## 🧭 Roadmap
 
 - [ ] Visualizations with `matplotlib` / `seaborn`
 - [ ] `groupby()` questions — avg. GDP per region, avg. life expectancy per continent
-- [ ] Correlation analysis (e.g., GDP vs. life expectancy)
+- [ ] Correlation analysis (e.g. GDP vs. life expectancy)
 - [ ] Summary & insights section
 
-## Author
+<br/>
+
+<div align="center">
+
+## 🙋‍♂️ Author
 
 **Malik Waleed Hussain**
 BS Computer Science
 
-[![GitHub](https://img.shields.io/badge/GitHub-waleed4we-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleed4we)
+<a href="https://github.com/waleed4we">
+<img src="https://img.shields.io/badge/GitHub-waleed4we-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<sub>Built with pandas, curiosity, and a lot of coffee ☕ — part of my journey to becoming a Data Analyst.</sub>
+<sub>Built with pandas, curiosity, and a lot of coffee ☕</sub>
 
----
+<br/><br/>
 
-<div align="center">
-
-If this project helped you, consider giving it a ⭐ — it goes a long way!
+⭐ **If this project helped you, consider giving it a star!** ⭐
 
 </div>

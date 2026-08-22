@@ -49,7 +49,7 @@ The notebook opens with `.info()` and `.describe()` to get oriented, then works 
 
 <table>
 <tr><td>01</td><td>Capital of the most populous country</td></tr>
-<tr><td>02</td><td>Least populated country</td></tr>
+<tr><td>02</td><td>Least Populated country</td></tr>
 <tr><td>03</td><td>Capital of the least populated country</td></tr>
 <tr><td>04</td><td>Top 5 countries by democracy score</td></tr>
 <tr><td>05</td><td>Total number of regions</td></tr>

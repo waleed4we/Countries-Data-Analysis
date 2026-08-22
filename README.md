@@ -11,14 +11,6 @@
 <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square&logo=bookstack&logoColor=white" alt="License"/>
-<img src="https://img.shields.io/badge/Rows-194-4dabcf?style=flat-square&logo=databricks&logoColor=white" alt="Rows"/>
-<img src="https://img.shields.io/badge/Columns-64-4dabcf?style=flat-square&logo=googlesheets&logoColor=white" alt="Columns"/>
-<img src="https://img.shields.io/github/stars/waleed4we/Global-Countries-Data-Analysis?style=flat-square&color=f5a623&logo=github" alt="Stars"/>
-
 </div>
 
 <br/>

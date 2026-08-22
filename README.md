@@ -5,7 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 A beginner-level **Pandas** project that explores a rich dataset of 194 countries — covering population, economy, health, energy, environment, and political data — to answer real-world analytical questions using Python.
 

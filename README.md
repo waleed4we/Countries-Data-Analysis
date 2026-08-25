@@ -75,7 +75,7 @@ The notebook opens with `.info()` and `.describe()` to get oriented, then works 
 
 <br/>
 
-## 📂 Project Structure
+## 📂 This Project Structure
 
 ```
 Countries-Data-Analysis

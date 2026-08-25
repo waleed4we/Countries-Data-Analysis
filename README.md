@@ -2,7 +2,7 @@
 
 <h1>🌍 Global Countries Data Analysis</h1>
 
-<p><em>Exploring 194 countries across population, economy, health, energy, and politics — with pandas.</em></p>
+<p><em>Exploring 194 countries across population, economy, health, energy, and politics — with pandas</em></p>
 
 <br/>
 

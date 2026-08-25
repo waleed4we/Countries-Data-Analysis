@@ -15,7 +15,7 @@
 
 <br/>
 
-## 📌 Overview
+## 📌 Project Overview
 
 A beginner-level **pandas** project that digs into a dataset of 194 countries to answer real-world analytical questions — clean data exploration and aggregation, the way an actual analyst would approach it.
 

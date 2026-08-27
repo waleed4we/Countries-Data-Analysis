@@ -48,7 +48,7 @@ Built as hands-on practice on the road to becoming a **Data Analyst**, this proj
 The notebook opens with `.info()` and `.describe()` to get oriented, then works through 10 questions using `nlargest`, `value_counts`, `.apply()`, and boolean indexing — each with a short comment explaining the logic.
 
 <table>
-<tr><td>01</td><td>Capital of the most populous country</td></tr>
+<tr><td>01</td><td>Capital of the most populated country</td></tr>
 <tr><td>02</td><td>Least Populated country</td></tr>
 <tr><td>03</td><td>Capital of the least populated country</td></tr>
 <tr><td>04</td><td>Top 5 countries by democracy score</td></tr>

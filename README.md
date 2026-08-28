@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🌍 Global Countries Data Analysis</h1>
+<h1>🌍 Global Countries Data Analysis </h1>
 
 <p><em>Exploring 194 countries across their population, economy, health, energy, and politics — with python and pandas</em></p>
 

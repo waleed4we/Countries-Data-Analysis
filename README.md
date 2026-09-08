@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-A beginner-level **pandas** project that digs into a dataset of 194 countries to answer real-world analytical questions — clean data exploration and aggregation, the way an actual analyst would approach it.
+A Beginner-Level Pandas Project That Digs Into a Dataset of 194 Countries to Answer Real-World Analytical Questions — Clean Data Exploration and Aggregation, the Way an Actual Analyst Would Approach It
 
 Built as hands-on practice on the road to becoming a **Data Analyst**, this project focuses on filtering, grouping, and summarizing data rather than just displaying it.
 

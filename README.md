@@ -48,16 +48,16 @@ Built as Hands-On Practice on the Road to Becoming a Data Analyst, This Project 
 The notebook opens with `.info()` and `.describe()` to get oriented, then works through 10 questions using `nlargest`, `value_counts`, `.apply()`, and boolean indexing — each with a short comment explaining the logic.
 
 <table>
-<tr><td>01</td><td>Capital of the most populated country</td></tr>
-<tr><td>02</td><td>Least Populated country</td></tr>
-<tr><td>03</td><td>Capital of the least populated country</td></tr>
-<tr><td>04</td><td>Top 5 countries by democracy score</td></tr>
-<tr><td>05</td><td>Total number of regions</td></tr>
+<tr><td>01</td><td>Capital of the Most Populated Country</td></tr>
+<tr><td>02</td><td>Least Populated Country</td></tr>
+<tr><td>03</td><td>Capital of the Least Populated Country</td></tr>
+<tr><td>04</td><td>Top 5 Countries by Democracy Score</td></tr>
+<tr><td>05</td><td>Total Number of Regions</td></tr>
 <tr><td>06</td><td>Countries in Eastern Europe</td></tr>
-<tr><td>07</td><td>Political leader of the 2nd most populous country</td></tr>
-<tr><td>08</td><td>Countries with an unknown political leader</td></tr>
-<tr><td>09</td><td>Countries with "Republic" in their full name</td></tr>
-<tr><td>10</td><td>Most populous country in Africa</td></tr>
+<tr><td>07</td><td>Political Leader of the 2nd Most Populous Country</td></tr>
+<tr><td>08</td><td>Countries with an Unknown Political Leader</td></tr>
+<tr><td>09</td><td>Countries with "Republic" in Their Full Name</td></tr>
+<tr><td>10</td><td>Most Populous Country in Africa</td></tr>
 </table>
 
 <br/>

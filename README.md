@@ -25,7 +25,7 @@ Built as Hands-On Practice on the Road to Becoming a Data Analyst, This Project 
 
 ## 🗂️ Dataset
 
-`Countries.csv` — **194 rows × 64 columns**
+`Countries.csv` — **194 Rows × 64 Columns**
 
 <div align="center">
 

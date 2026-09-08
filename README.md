@@ -31,13 +31,13 @@ Built as Hands-On Practice on the Road to Becoming a Data Analyst, This Project 
 
 | Category | Fields |
 |:--|:--|
-| 🌐 **Identity** | Country, capital, region, continent, currency |
-| 👥 **Population** | Total, male, female, urban, rural |
-| 💰 **Economy** | GDP, inflation, tax revenue, unemployment |
-| 🏥 **Health** | Expenditure, life expectancy, birth/death rate |
-| ⚡ **Energy** | Coal, hydro, nuclear, renewables |
-| 🌱 **Environment** | CO₂, methane, greenhouse gas emissions |
-| 🏛️ **Politics** | Democracy score, democracy type, political leader |
+| 🌐 **Identity** | Country, Capital, Region, Continent, Currency |
+| 👥 **Population** | Total, Male, Female, Urban, Rural |
+| 💰 **Economy** | GDP, Inflation, Tax Revenue, Unemployment |
+| 🏥 **Health** | Expenditure, Life Expectancy, Birth/Death Rate |
+| ⚡ **Energy** | Coal, Hydro, Nuclear, Renewables |
+| 🌱 **Environment** | CO₂, Methane, Greenhouse Gas Emissions |
+| 🏛️ **Politics** | Democracy Score, Democracy Type, Political Leader |
 
 </div>
 
